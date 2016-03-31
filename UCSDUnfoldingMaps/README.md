@@ -25,6 +25,7 @@ I also modified the following code to show a pop-up window when a marker is clic
 	•	Modified checkEarthquakesForClick method to get the unhidden city markers that were impacted by the clicked quake and show the information of the cities (city name and population) by utilizing JOptionPane.showMessageDialog.
 
 References:
+
 	•	https://www.coursera.org/learn/object-oriented-java/ 
 	
 	•	http://unfoldingmaps.org/tutorials/geonames-lookup-basic.html 
